@@ -1,0 +1,5 @@
+streamlit
+tensorflow  # if using TensorFlow
+numpy
+pandas
+matplotlib  # for plotting, if needed
